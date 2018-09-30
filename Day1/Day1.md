@@ -23,6 +23,13 @@
 //roslaunch mx_apps follower2.launch ;exec bash
 
 ## 终端指令
+ cd： 进入文件夹
+ cd..: 返回上一级
+ cd -： 撤销
+ ls： 查看文件夹中内容
+ mkdir： 创建文件夹
+ -p： 连续创建
+ touch： 创建文件
  rm： remove 删除文件
  rm -r（文件名）：删除文件夹
  rm py： py文件其全部删除
