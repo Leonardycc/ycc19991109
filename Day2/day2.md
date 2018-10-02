@@ -52,9 +52,5 @@
 * 7 进入package并检查文件
 * //cd name2/ & ls
 * 8 新建并撰写launch文件
-* //gedit go.launch
-* //(<launch>
-* // <node name="talker" pkg="rospy_tutorials" type="talker" />
-* //</launch>
 * 9 启动launch文件
 * roslaunch go.launch
